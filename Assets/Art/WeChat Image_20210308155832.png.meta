@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 939a12bbc76922548b70f72c2933691c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3174323935987517035
+    second: WeChat Image_20210308155832_0
+  - first:
+      213: -6811037500498927078
+    second: WeChat Image_20210308155832_1
+  - first:
+      213: 5872051891472570862
+    second: WeChat Image_20210308155832_2
+  - first:
+      213: 1989248853404339560
+    second: WeChat Image_20210308155832_3
+  - first:
+      213: 1164661908550537965
+    second: WeChat Image_20210308155832_4
+  - first:
+      213: -4302263657824203607
+    second: WeChat Image_20210308155832_5
+  - first:
+      213: 2975639662316881152
+    second: WeChat Image_20210308155832_6
+  - first:
+      213: 6022588923449691062
+    second: WeChat Image_20210308155832_7
+  - first:
+      213: -5963831192748085054
+    second: WeChat Image_20210308155832_8
+  - first:
+      213: 8514886304559014823
+    second: WeChat Image_20210308155832_9
+  - first:
+      213: -6558598313938014823
+    second: WeChat Image_20210308155832_10
+  - first:
+      213: 6100716696022806278
+    second: WeChat Image_20210308155832_11
+  - first:
+      213: -7864665724839861672
+    second: WeChat Image_20210308155832_12
+  - first:
+      213: 1356731617889532039
+    second: WeChat Image_20210308155832_13
+  - first:
+      213: -8779660277614274315
+    second: WeChat Image_20210308155832_14
+  - first:
+      213: 8134259712711056897
+    second: WeChat Image_20210308155832_15
+  - first:
+      213: -7070476460856055879
+    second: WeChat Image_20210308155832_16
+  - first:
+      213: -2683788584976985308
+    second: WeChat Image_20210308155832_17
+  - first:
+      213: 4349147480896449037
+    second: WeChat Image_20210308155832_18
+  - first:
+      213: -7861655040694439346
+    second: WeChat Image_20210308155832_19
+  - first:
+      213: 6053960463671764561
+    second: WeChat Image_20210308155832_20
+  - first:
+      213: -2720088432664463563
+    second: WeChat Image_20210308155832_21
+  - first:
+      213: 7060713099068523016
+    second: WeChat Image_20210308155832_22
+  - first:
+      213: 6904877438089147871
+    second: WeChat Image_20210308155832_23
+  - first:
+      213: 774056078515646974
+    second: WeChat Image_20210308155832_24
+  - first:
+      213: 9157555526927234627
+    second: WeChat Image_20210308155832_25
+  - first:
+      213: 6755255810920466476
+    second: WeChat Image_20210308155832_26
+  - first:
+      213: -5957274783842706292
+    second: WeChat Image_20210308155832_27
+  - first:
+      213: -422324558894109425
+    second: WeChat Image_20210308155832_28
+  - first:
+      213: -2808983721642838062
+    second: WeChat Image_20210308155832_29
+  - first:
+      213: -2583533249087947154
+    second: WeChat Image_20210308155832_30
+  - first:
+      213: 5670176879004580196
+    second: WeChat Image_20210308155832_31
+  - first:
+      213: -9169025964003024784
+    second: WeChat Image_20210308155832_0
+  - first:
+      213: -4691844202541410299
+    second: WeChat Image_20210308155832_1
+  - first:
+      213: -5923894297109777047
+    second: WeChat Image_20210308155832_2
+  - first:
+      213: -169145775466815446
+    second: WeChat Image_20210308155832_3
+  - first:
+      213: 5993524112434616812
+    second: WeChat Image_20210308155832_4
+  - first:
+      213: -1179874251398440307
+    second: WeChat Image_20210308155832_5
+  - first:
+      213: -93430658048294809
+    second: WeChat Image_20210308155832_6
+  - first:
+      213: -1556200271629892880
+    second: WeChat Image_20210308155832_7
+  - first:
+      213: 4465730307567012020
+    second: WeChat Image_20210308155832_8
+  - first:
+      213: -3756971716333026831
+    second: WeChat Image_20210308155832_9
+  - first:
+      213: 2292920084687312202
+    second: WeChat Image_20210308155832_10
+  - first:
+      213: -6750338047360805630
+    second: WeChat Image_20210308155832_11
+  - first:
+      213: 4411711673110140082
+    second: WeChat Image_20210308155832_12
+  - first:
+      213: -2781139359918158262
+    second: WeChat Image_20210308155832_13
+  - first:
+      213: -7109557497540383534
+    second: WeChat Image_20210308155832_14
+  - first:
+      213: 5939822904050829881
+    second: WeChat Image_20210308155832_15
+  - first:
+      213: -1337880954497650386
+    second: WeChat Image_20210308155832_16
+  - first:
+      213: -4898038187655716543
+    second: WeChat Image_20210308155832_17
+  - first:
+      213: 189915563520549698
+    second: WeChat Image_20210308155832_18
+  - first:
+      213: -6400984941526089543
+    second: WeChat Image_20210308155832_19
+  - first:
+      213: 8393485015483121632
+    second: WeChat Image_20210308155832_20
+  - first:
+      213: -6382079627097601723
+    second: WeChat Image_20210308155832_21
+  - first:
+      213: 1319796486769128181
+    second: WeChat Image_20210308155832_22
+  - first:
+      213: -8315348373095134619
+    second: WeChat Image_20210308155832_23
+  - first:
+      213: 6738402314652852536
+    second: WeChat Image_20210308155832_24
+  - first:
+      213: -16490651714128630
+    second: WeChat Image_20210308155832_25
+  - first:
+      213: 945815522331155220
+    second: WeChat Image_20210308155832_26
+  - first:
+      213: 7973750347437692620
+    second: WeChat Image_20210308155832_27
+  - first:
+      213: 3044245620313890967
+    second: WeChat Image_20210308155832_28
+  - first:
+      213: -4501825767216525172
+    second: WeChat Image_20210308155832_29
+  - first:
+      213: 1370564622666833340
+    second: WeChat Image_20210308155832_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070244f177311c080800000000000000
+      internalID: -9169025964003024784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081b066e8833eeb0800000000000000
+      internalID: -4691844202541410299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9653fcdd5891acda0800000000000000
+      internalID: -5923894297109777047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20ea0a30d217adf0800000000000000
+      internalID: -169145775466815446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9576adc664d2350800000000000000
+      internalID: 5993524112434616812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a14cd9e9e30afe0800000000000000
+      internalID: -1179874251398440307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76086efbf4114bef0800000000000000
+      internalID: -93430658048294809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2422a1914476ae0800000000000000
+      internalID: -1556200271629892880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84a35ed0679fd30800000000000000
+      internalID: 4465730307567012020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c7c8112e8cdbc0800000000000000
+      internalID: -3756971716333026831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_10
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 409
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45552a2ba612df10800000000000000
+      internalID: 2292920084687312202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205514d8f4bf152a0800000000000000
+      internalID: -6750338047360805630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b49c27746c893d30800000000000000
+      internalID: 4411711673110140082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e883dbc786769d0800000000000000
+      internalID: -2781139359918158262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dce3e0cf17c55d90800000000000000
+      internalID: -7109557497540383534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93acda0f57d7e6250800000000000000
+      internalID: 5939822904050829881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_16
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21386b3c54ee6de0800000000000000
+      internalID: -1337880954497650386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ab70283ca60cb0800000000000000
+      internalID: -4898038187655716543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e5f4e237b2a200800000000000000
+      internalID: 189915563520549698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_19
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b086bb0c122b27a0800000000000000
+      internalID: -6400984941526089543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_20
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7f67a626ab7470800000000000000
+      internalID: 8393485015483121632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 306
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5490792946c4e67a0800000000000000
+      internalID: -6382079627097601723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bea189ebd05210800000000000000
+      internalID: 1319796486769128181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aca0616b2f99c80800000000000000
+      internalID: -8315348373095134619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ad8e143d938d50800000000000000
+      internalID: 6738402314652852536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_25
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05f672f6d965cff0800000000000000
+      internalID: -16490651714128630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b5997d436302d00800000000000000
+      internalID: 945815522331155220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6dbaab1b378ae60800000000000000
+      internalID: 7973750347437692620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79029d733455f3a20800000000000000
+      internalID: 3044245620313890967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_29
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80db50015d4681c0800000000000000
+      internalID: -4501825767216525172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeChat Image_20210308155832_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 203
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd16c34349350310800000000000000
+      internalID: 1370564622666833340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1b4e75844b6802842945d3f062814692
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
